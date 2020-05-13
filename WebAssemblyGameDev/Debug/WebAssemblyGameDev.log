@@ -1,0 +1,6 @@
+﻿  jskey.c
+  keyboard.c
+C:\Users\Luka\source\repos\WebAssemblyGameDev\WebAssemblyGameDev\keyboard.c(136,1): warning C4026: function declared with formal parameter list
+  Generating Code...
+C:\Users\Luka\source\repos\WebAssemblyGameDev\WebAssemblyGameDev\jskey.c(43): warning C4716: 'main_': must return a value
+  WebAssemblyGameDev.vcxproj -> C:\Users\Luka\source\repos\WebAssemblyGameDev\Debug\WebAssemblyGameDev.exe
